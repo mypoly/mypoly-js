@@ -1,4 +1,5 @@
 # mypoly-js
+# Gyroscope javascript for website
 
 var PhotoTilt = function(options) {
 
